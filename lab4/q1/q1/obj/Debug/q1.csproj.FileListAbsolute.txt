@@ -1,0 +1,7 @@
+C:\Users\Windows\Documents\Lab\lab4\q1\q1\bin\Debug\q1.exe.config
+C:\Users\Windows\Documents\Lab\lab4\q1\q1\bin\Debug\q1.exe
+C:\Users\Windows\Documents\Lab\lab4\q1\q1\bin\Debug\q1.pdb
+C:\Users\Windows\Documents\Lab\lab4\q1\q1\obj\Debug\q1.csproj.AssemblyReference.cache
+C:\Users\Windows\Documents\Lab\lab4\q1\q1\obj\Debug\q1.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\Lab\lab4\q1\q1\obj\Debug\q1.exe
+C:\Users\Windows\Documents\Lab\lab4\q1\q1\obj\Debug\q1.pdb
